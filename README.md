@@ -8,7 +8,8 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/NITSkmOS/Algorithms.svg)](https://github.com/NITSkmOS/Algorithms/graphs/contributors)
 [![OpenHub](https://www.openhub.net/p/NITSkmOS-algo/widgets/project_thin_badge?format=gif)](https://www.openhub.net/p/NITSkmOS-algo?ref=Thin+badge)
 
-This repository contains examples of various algorithms written on different programming languages...
+This repository contains examples of various algorithms written on different programming languages!
+
 
 ## Implemented Algorithms
 
