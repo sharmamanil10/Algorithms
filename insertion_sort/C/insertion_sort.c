@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+#include <string.h>
 void insertion_sort(int arr_size, int *arr) {
 	// Fuction to do insertion sort.
 	int i;
